@@ -201,7 +201,7 @@ const styles = StyleSheet.create({
   cardsWrapper: {
     flexDirection: "row",
     flexWrap: "wrap",
-    marginHorizontal: 15,
+    marginLeft: 20,
     marginTop: 20,
   },
 });
